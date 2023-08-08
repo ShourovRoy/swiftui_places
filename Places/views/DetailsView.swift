@@ -40,10 +40,6 @@ struct DetailsView: View {
             .padding()
             
         }
-        .navigationBarTitleDisplayMode(.inline)
-        
-        
-
     }
 }
 
